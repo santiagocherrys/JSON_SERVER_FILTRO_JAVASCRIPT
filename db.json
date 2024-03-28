@@ -86,9 +86,9 @@
     {
       "title": "Quires trabajar ya?",
       "description": "asdfadsfasdf",
-      "publicationDate": "27/3/2024",
+      "publicationDate": "28/3/2024",
       "location": "Antioquia",
-      "experience": "48",
+      "experience": "40",
       "modality": "In person",
       "salary": "1234564556",
       "companyId": "Riwi",
@@ -126,6 +126,17 @@
       "modality": "Remote",
       "salary": "5000000",
       "companyId": "merkatronix"
+    },
+    {
+      "id": "b4d3",
+      "title": "Prueba 2",
+      "description": "asdfadsfasdf",
+      "publicationDate": "28/3/2024",
+      "location": "Antioquia",
+      "experience": "40",
+      "modality": "Remote",
+      "salary": "123456",
+      "companyId": "Riwi"
     }
   ],
   "jobs2": [
