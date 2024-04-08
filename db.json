@@ -1,7 +1,6 @@
 {
-  "trabajos": [
+  "jobs": [
     {
-      "id": "1",
       "title": "Chief Executive Officer (CEO)",
       "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis tempora dicta quidem ex, quod, et minima dolores alias ipsa quis quo laboriosam iure? Voluptatum porro dolore tempore alias sit excepturi.",
       "publicationDate": "27/3/2024",
@@ -9,7 +8,8 @@
       "experience": "45",
       "modality": "In person",
       "salary": "1200000",
-      "companyId": "Riwi"
+      "companyId": "Riwi",
+      "id": "1"
     },
     {
       "id": "4",
@@ -17,7 +17,7 @@
       "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis tempora dicta quidem ex, quod, et minima dolores alias ipsa quis quo laboriosam iure? Voluptatum porro dolore tempore alias sit excepturi.",
       "publicationDate": "12/02/2024",
       "location": "London",
-      "experience": "41",
+      "experience": 41,
       "modality": "Remote",
       "salary": "$1,320,000",
       "companyId": "Bancoo"
@@ -34,7 +34,6 @@
       "companyId": "Riwi"
     },
     {
-      "id": "059b",
       "title": "Quires trabajar ya?",
       "description": "asdfadsfasdf",
       "publicationDate": "28/3/2024",
@@ -42,7 +41,8 @@
       "experience": "40",
       "modality": "In person",
       "salary": "1234564556",
-      "companyId": "Riwi"
+      "companyId": "Riwi",
+      "id": "059b"
     },
     {
       "id": "ae18",
